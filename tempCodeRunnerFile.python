@@ -1,0 +1,6 @@
+import matplotlib.pyplot as plt
+import numpy as np
+x = np.array(["Maths", "English", "Computer Science", "Science",])
+y = np.array([8, 7, 9, 10])
+plt.bar(x, y)
+plt.show()

@@ -1,0 +1,2 @@
+    segmentedSieve(L, R, sieve());
+}
